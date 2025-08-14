@@ -6,11 +6,9 @@ function About() {
       <div className="item imagen img1 area-img1"></div>
       <div className="item texto area-text1">
         <h2 className='titCuadri'>Sobre Nosotros</h2>
-        <p>En SantiCafé, cada taza cuenta una historia. 
-          Somos mucho más que una cafetería, somos un espacio donde el aroma del café recién hecho se mezcla con momentos únicos, charlas sinceras y pausas necesarias.</p>
-        <p>Nuestro nombre rinde homenaje a lo sencillo, lo cálido y lo auténtico todo lo que representa cada rincón de SantiCafé. 
-          Nuestra carta combina clásicos, con propuestas innovadoras y opciones para todos los gustos, incluyendo delicias dulces y saladas hechas artesanalmente.</p>
-        <p>Ya sea que vengas a leer un libro, tener una reunión o simplemente desconectar del mundo, en SantiCafé siempre vas a encontrar un ambiente cálido.</p>
+        <p>SantiCafé es un proyecto pensado y  soñado por años, somos un espacio donde el aroma del café recién hecho se mezcla con momentos únicos, charlas y pausas necesarias.</p>
+        <p>Nuestro nombre rinde homenaje a mi hijo, como Asi también a lo sencillo, cálido y auténtico que representa cada rincón de SantiCafé. Nuestra carta combina clásicos, con propuestas artesanales y opciones para todos los gustos, incluyendo delicias dulces, saladas, tablas, batidos, y muchas cosas más.</p>
+        <p>Ya sea que vengas a leer un libro, tener una reunión o simplemente desconectar del mundo, en SantiCafé siempre vas a encontrar un ambiente cálido.</p>
       </div>
       <div className="item imagen img2 area-img2"></div>
       <div className="item texto area-text2">

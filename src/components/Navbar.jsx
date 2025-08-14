@@ -21,7 +21,7 @@ function Navbar() {
 
       <div className="menu-pc">
         <a href="#inicio">Inicio</a>
-        <a href="#nosotros">Sobre Nosotros</a>
+        <a href="#nosotros">Sobre nosotros</a>
         <a href="#contacto">Contacto</a>
         <Link to="/menu">Menú</Link>
       </div>
